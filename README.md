@@ -22,7 +22,7 @@ of new COVID-19 cases in Malaysia based on the previous 30 days of data.
 
 <img width="818" alt="Screenshot 2024-11-07 at 4 54 19 PM" src="https://github.com/user-attachments/assets/d81eca3a-1b83-43e1-808a-47f89ce802da">
 
-## Acknowledgments
+## Data Source
 
 This project utilizes the following open-source dataset:
 
